@@ -1,5 +1,7 @@
 package com.springboot.app.msitems.models;
 
+import com.springboot.app.mscommons.models.entity.Producto;
+
 public class Item {
 
 	private Producto producto;
